@@ -28,7 +28,8 @@ Expect to see:
 ### Reach Me
 - **Email** - mannatchauhan2008@gmail.com
 - Always open to collaborating on projects that connect computer science with real-world systems, have political discussions or strategic applications
-
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 Noddles-hehe/Noddles-hehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
