@@ -29,6 +29,15 @@ Expect to see:
 - **Email** - mannatchauhan2008@gmail.com
 - Always open to collaborating on projects that connect computer science with real-world systems, have political discussions or strategic applications
 <!--START_SECTION:waka-->
+
+```txt
+Python     4 hrs 25 mins   ████████████████████▒░░░░   81.99 %
+Markdown   34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+CSV        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Text       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
