@@ -31,8 +31,7 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 55 mins    ██████████████████████░░░   87.57 %
-CSV      16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
