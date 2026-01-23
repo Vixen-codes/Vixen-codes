@@ -31,7 +31,10 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         21 mins         ████████████████░░░░░░░░░   64.59 %
+JavaScript   7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+CSS          3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
