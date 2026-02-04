@@ -31,11 +31,7 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      22 mins         █████████████████▒░░░░░░░   69.63 %
-C++           4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Objective-C   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-CMake         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Python        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
