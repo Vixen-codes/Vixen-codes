@@ -31,9 +31,9 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-Java       36 mins               █████████████████████████   99.55 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java       2 hrs 37 mins         █████████████████████▓░░░   86.05 %
+Markdown   25 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
