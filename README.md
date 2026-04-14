@@ -31,10 +31,8 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-XML              15 mins               ████████████████████████▒   97.76 %
-Markdown         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-YAML             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+XML        7 mins                ████████████████████████▓   98.58 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
