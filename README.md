@@ -31,8 +31,7 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-XML        7 mins                ████████████████████████▓   98.58 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
