@@ -31,7 +31,8 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java       14 mins               ██████████████████▓░░░░░░   75.19 %
+Markdown   4 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
 ```
 
 <!--END_SECTION:waka-->
