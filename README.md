@@ -31,8 +31,8 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   4 hrs 43 mins         ████████████████████████▒   97.02 %
-XML    8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Java   3 hrs 4 mins          ████████████████████████░   95.50 %
+XML    8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
