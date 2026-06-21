@@ -31,9 +31,7 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         2 mins                ███████████████████████▓░   95.08 %
-CSS          0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
