@@ -31,8 +31,7 @@ Expect to see:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   43 mins               ██████████████████████░░░   88.64 %
-HTML     5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+HTML   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
